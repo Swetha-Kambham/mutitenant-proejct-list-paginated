@@ -1,0 +1,42 @@
+# =========================
+# General
+# =========================
+.env
+.env.*
+.DS_Store
+*.log
+
+# =========================
+# Docker
+# =========================
+**/node_modules
+**/dist
+**/build
+
+# =========================
+# .NET
+# =========================
+**/bin
+**/obj
+*.user
+*.suo
+*.cache
+*.pdb
+
+# =========================
+# Node / Middleware
+# =========================
+middleware/node_modules
+middleware/dist
+
+# =========================
+# Frontend (future)
+# =========================
+frontend/node_modules
+frontend/build
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
