@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PSA.API/PSA.API.csproj" />
+  <Project Path="PSA.Contracts/PSA.Contracts.csproj" />
+  <Project Path="PSA.DAL/PSA.DAL.csproj" />
+  <Project Path="PSA.Services/PSA.Services.csproj" />
+</Solution>
